@@ -48,32 +48,46 @@ A Parallel in Parallel out (PIPO) shift register is used as a temporary storage 
 ### PROGRAM 
 /*
 Program for  Implementation-of Shift-registers-using-verilog-
-Developed by: 
-RegisterNumber:  
+Developed by: DEVASANJAY N
+RegisterNumber: 23013004 
 */
 
+SERIAL INPUT PARALLEL OUTPUT:
+![SIPO CODE](https://github.com/DEVASANJAY002/Exercise-09-Shift-registers-using-verilog-/assets/152069249/db2286c2-41ac-4d3f-a9c0-58b750e64335)
 
 
+PARALLEL INPUT SERIAL OUTPUT:
+![PISO CODE](https://github.com/DEVASANJAY002/Exercise-09-Shift-registers-using-verilog-/assets/152069249/3b52a210-8d24-4a2f-b0ad-be678fdb9dc2)
+ 
 
 
+PARALLEL INPUT PARALLEL OUTPUT:
+![PIPO CODE](https://github.com/DEVASANJAY002/Exercise-09-Shift-registers-using-verilog-/assets/152069249/4e27b7be-62ed-4929-a0f7-ddf902e9b0f3)
 
-### RTL LOGIC  REGISTERS   
+ ### RTL LOGIC REGISTERS:
+ 
+SERIAL INPUT PARALLEL OUTPUT:
+![SIPO RTL](https://github.com/DEVASANJAY002/Exercise-09-Shift-registers-using-verilog-/assets/152069249/778e9af6-45aa-4d31-915e-3a2b5cd9dedd)
 
+### PARALLEL INPUT SERIAL OUTPUT:
+![PISO RTL](https://github.com/DEVASANJAY002/Exercise-09-Shift-registers-using-verilog-/assets/152069249/2acbbaa7-ded5-40e4-9849-54eff4096666)
 
-
-
-
-
-
-
+### PARALLEL INPUT PARALLEL OUTPUT:
+![PIPO RTL](https://github.com/DEVASANJAY002/Exercise-09-Shift-registers-using-verilog-/assets/152069249/aa222755-86b2-4172-99f9-a21b687532fa)
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
+### SERIAL INPUT PARALLEL OUTPUT:
+![SIPO TIME](https://github.com/DEVASANJAY002/Exercise-09-Shift-registers-using-verilog-/assets/152069249/cab51862-9d80-4518-8c3b-1d034c0b0571)
+
+### PARALLEL INPUT SERIAL OUTPUT:
+![PISO TIME](https://github.com/DEVASANJAY002/Exercise-09-Shift-registers-using-verilog-/assets/152069249/8afa5e39-6a85-4376-aa45-ad67203e4f8d)
 
 
-
-
-
+### PARALLEL INPUT PARALLEL OUTPUT:
+![PIPO TIME](https://github.com/DEVASANJAY002/Exercise-09-Shift-registers-using-verilog-/assets/152069249/1e35d1ee-78d0-4c5b-a062-90f7f6ea40cf)
 
 
 
 ### RESULTS 
+Implementation of PISO , PIPO, PISO using verilog program is done and its functionality is validated
+using their functional tables.
